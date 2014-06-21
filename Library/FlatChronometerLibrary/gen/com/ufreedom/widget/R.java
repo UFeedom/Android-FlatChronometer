@@ -64,12 +64,6 @@ containing a value of this type.
         public static int typeface=0x7f010002;
     }
     public static final class dimen {
-        /** 
-         Customize dimensions originally defined in res/values/dimens.xml (such as
-         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
-    
-         */
-        public static int activity_horizontal_margin=0x7f030004;
         public static int metricPaddingY=0x7f030003;
         public static int metricSize=0x7f030002;
         public static int textSize=0x7f030001;
@@ -79,21 +73,6 @@ containing a value of this type.
         public static int wave=0x7f020000;
         public static int wave1=0x7f020001;
         public static int wave_blue=0x7f020002;
-    }
-    public static final class style {
-        /** 
-        Base application theme for API 11+. This theme completely replaces
-        AppBaseTheme from res/values/styles.xml on API 11+ devices.
-    
- API 11 theme customizations can go here. 
-
-        Base application theme for API 14+. This theme completely replaces
-        AppBaseTheme from BOTH res/values/styles.xml and
-        res/values-v11/styles.xml on API 14+ devices.
-    
- API 14 theme customizations can go here. 
-         */
-        public static int AppBaseTheme=0x7f040000;
     }
     public static final class styleable {
         /** Attributes that can be used with a CircularMeter.

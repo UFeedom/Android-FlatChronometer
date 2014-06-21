@@ -27,11 +27,11 @@ int id radion_btn_increase 0x7f080003
 int id start 0x7f080006
 int layout activity_main 0x7f030000
 int menu main 0x7f070000
-int string action_settings 0x7f060002
-int string app_name 0x7f060000
-int string hello_world 0x7f060001
-int style AppBaseTheme 0x7f050000
-int style AppTheme 0x7f050001
+int string action_settings 0x7f050002
+int string app_name 0x7f050000
+int string hello_world 0x7f050001
+int style AppBaseTheme 0x7f060001
+int style AppTheme 0x7f060000
 int[] styleable CircularMeter { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005 }
 int styleable CircularMeter_metricSize 3
 int styleable CircularMeter_metricText 4
